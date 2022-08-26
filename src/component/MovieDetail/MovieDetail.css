@@ -1,0 +1,13 @@
+.borderDetail {
+  color: white;
+}
+.indam {
+  font-weight: bold;
+}
+.borderDetail hr {
+  border: 1px solid white;
+  background: white;
+}
+.textAlign {
+  text-align: justify;
+}

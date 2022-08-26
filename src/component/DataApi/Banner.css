@@ -1,0 +1,52 @@
+.borderBanner {
+  position: relative;
+}
+.borderBanner img {
+  margin-top: -7%;
+  width: 100%;
+}
+.h1 {
+  position: absolute;
+  top: 40%;
+  color: white;
+  left: 2%;
+}
+.borderBanner button {
+  border: none;
+  background: gray;
+  color: white;
+  padding: 5px;
+  width: 5rem;
+  opacity: 0.9;
+  border-radius: 6px;
+}
+.button1 {
+  position: absolute;
+  top: 52%;
+  left: 2%;
+}
+.button2 {
+  position: absolute;
+  top: 52%;
+  left: 10%;
+}
+.p1Banner {
+  position: absolute;
+  text-align: justify;
+  color: white;
+  top: 60%;
+  left: 2%;
+  width: 40%;
+  font-size: 90%;
+}
+.bannerLoading {
+  text-align: center;
+  background: black;
+  color: white;
+}
+.bannerError {
+  border: 1px solid red;
+  text-align: center;
+  background: white;
+  color: red;
+}

@@ -1,0 +1,35 @@
+.icon {
+  width: 1.35rem;
+  height: 1.35rem;
+  margin-right: 0.5rem;
+  margin-left: 85%;
+}
+.borderNavbar {
+  margin: 10px 2%;
+}
+.fll {
+  float: left;
+}
+.textNone {
+  text-decoration: none;
+  color: red;
+  font-weight: bold;
+  cursor: pointer;
+}
+.borderNavbar:after {
+  content: "";
+  clear: both;
+  display: block;
+}
+.background {
+  background: black;
+}
+
+.borderTotal {
+  padding: 5px;
+}
+.sticky {
+  position: sticky;
+  top: 0px;
+  z-index: 999;
+}

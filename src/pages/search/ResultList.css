@@ -1,0 +1,15 @@
+.borderResults {
+  margin-left: 2%;
+  margin-bottom: 20px;
+}
+.borderResults img {
+  padding: 5px;
+  width: 100%;
+  height: 10rem;
+  transition: 1s;
+  margin: 10px 2px;
+}
+.borderResults img:hover {
+  cursor: pointer;
+  transform: scale(1.2);
+}

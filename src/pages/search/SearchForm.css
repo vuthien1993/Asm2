@@ -1,0 +1,53 @@
+.iconSearch {
+  margin-right: 0.5rem;
+  cursor: pointer;
+  width: 2.5rem;
+  height: 2.5rem;
+}
+.borderSearch {
+  margin-top: -7%;
+  border: 1px solid black;
+  color: white;
+  background-color: black;
+}
+
+.borderForm button {
+  border: none;
+  background: white;
+}
+.borderForm input {
+  width: 80%;
+  height: 3rem;
+  border: none;
+  margin-right: 5px;
+}
+.borderForm input:focus {
+  outline: 0px;
+}
+.borderSearchForm {
+  margin: 10% 30%;
+  padding: 15px;
+
+  border: 1px solid white;
+  border-radius: 6px;
+  background: white;
+}
+.borderSearchForm hr {
+  background: blue;
+  border: 1px solid blue;
+}
+.borderSearchButton {
+  text-align: right;
+}
+.borderSearchButton button {
+  border: none;
+  background: white;
+  color: gray;
+  padding: 5px;
+  margin-right: 5px;
+}
+.borderSearchButton button:hover {
+  color: white;
+  background: blue;
+  border-radius: 6px;
+}

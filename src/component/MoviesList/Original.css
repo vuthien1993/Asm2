@@ -1,0 +1,25 @@
+.borderOriginal {
+  border: 1px solid black;
+  background: black;
+}
+.borderOriginal img {
+  padding: 5px;
+  width: 100%;
+  height: 10rem;
+  transition: 1s;
+}
+.borderOriginal img:hover {
+  cursor: pointer;
+  transform: scale(1.15);
+}
+.borderOriginal p {
+  margin-left: 2%;
+  margin-top: 20px;
+  color: white;
+}
+.white-space {
+  white-space: normal;
+}
+.pcolor {
+  color: white;
+}
